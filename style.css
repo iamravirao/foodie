@@ -20,7 +20,7 @@
     text-transform: uppercase;
     padding: 5px;
     font-family: 'Akaya Telivigala', cursive;
-
+    scroll-behavior: smooth;
    
    
 }
